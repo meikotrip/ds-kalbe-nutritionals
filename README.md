@@ -15,4 +15,5 @@ dibaca, dipahami, jelas dan komunikatif
 ### Submission Detail
 
 Video Penjelasan :
+
 File Submission  :
