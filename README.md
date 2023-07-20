@@ -11,9 +11,12 @@ dibaca, dipahami, jelas dan komunikatif
 
 ### Task Detail
 
+1. Exploratory data analysis di DBeaver
+2. Membuat Dashboard di Tableau
+3. Membangun model machine learning regression (Time Series) untuk dapat memprediksi total quantity harian dari product yang terjual dengan ARIMA.
+4. Membangun model machine learning clustering untuk membuat segment customer.
 
 ### Submission Detail
 
 Video Penjelasan :
 
-File Submission  :
