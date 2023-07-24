@@ -1,4 +1,4 @@
-# virtual intern data science rakamin X kalbe nutritionals
+# Virtual Intern Data Science Rakamin X Kalbe Nutritionals
 
 ## Final Project
 
@@ -18,5 +18,21 @@ dibaca, dipahami, jelas dan komunikatif
 
 ### Submission Detail
 
-Video Penjelasan :
+1. Exploratory Data Analysis di DBeaver
+
+   a. Menampilkan rata-rata umur customer jika dilihat dari marital statusnya
+   b. Menampilkan rata-rata umur customer jika dilihat dari gendernya
+   c. Menampilkan nama store dengan total quantity terbanyak
+   d. Menampilkan nama produk terlaris dengan total amount terbanyak
+
+   Query SQL untuk eksplorasi data tersebut dapat dilihat pada ...
+
+2. Membuat Dashboard di Tableau
+   Untuk lebih lanjut dapat dilihat pada ....
+   
+3. Prediksi perkiraan total quantity produk harian yang terjual
+   
+4. Segment Customer dengan clustering
+   
+    
 
